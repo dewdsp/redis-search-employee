@@ -1,0 +1,16 @@
+firstname,lastname,salary,department,isAdmin
+john,doe,66000,marketing,0
+ahmad,bazzi,54000,marketing,0
+valeria,stewart,57000,marketing,0
+lauren,roman,98000,marketing,0
+ahmad,malek,90000,marketing,1
+helena,cline,90000,support,0
+jane,smith,85000,support,1
+bruce,wayne,89000,support,0
+bruno,mars,95000,support,1
+taylor,swife,95000,support,0
+kim,kardashian,89000,sales,0
+david,bakhtiari,100000,sales,1
+kevin,colbert,89000,sales,0
+dexter,margan,90000,sales,1
+tony,romo,95000,sales,0

@@ -1,0 +1,107 @@
+[
+  {
+    "firstname": "john",
+    "lastname": "doe",
+    "salary": 66000,
+    "department": "marketing",
+    "isAdmin": 0
+  },
+  {
+    "firstname": "ahmad",
+    "lastname": "bazzi",
+    "salary": 54000,
+    "department": "marketing",
+    "isAdmin": 0
+  },
+  {
+    "firstname": "valeria",
+    "lastname": "stewart",
+    "salary": 57000,
+    "department": "marketing",
+    "isAdmin": 0
+  },
+  {
+    "firstname": "lauren",
+    "lastname": "roman",
+    "salary": 98000,
+    "department": "marketing",
+    "isAdmin": 0
+  },
+  {
+    "firstname": "ahmad",
+    "lastname": "malek",
+    "salary": 90000,
+    "department": "marketing",
+    "isAdmin": 1
+  },
+  {
+    "firstname": "helena",
+    "lastname": "cline",
+    "salary": 90000,
+    "department": "support",
+    "isAdmin": 0
+  },
+  {
+    "firstname": "jane",
+    "lastname": "smith",
+    "salary": 85000,
+    "department": "support",
+    "isAdmin": 1
+  },
+  {
+    "firstname": "bruce",
+    "lastname": "wayne",
+    "salary": 89000,
+    "department": "support",
+    "isAdmin": 0
+  },
+  {
+    "firstname": "bruno",
+    "lastname": "mars",
+    "salary": 95000,
+    "department": "support",
+    "isAdmin": 1
+  },
+  {
+    "firstname": "taylor",
+    "lastname": "swife",
+    "salary": 95000,
+    "department": "support",
+    "isAdmin": 0
+  },
+  {
+    "firstname": "kim",
+    "lastname": "kardashian",
+    "salary": 89000,
+    "department": "sales",
+    "isAdmin": 0
+  },
+  {
+    "firstname": "david",
+    "lastname": "bakhtiari",
+    "salary": 100000,
+    "department": "sales",
+    "isAdmin": 1
+  },
+  {
+    "firstname": "kevin",
+    "lastname": "colbert",
+    "salary": 89000,
+    "department": "sales",
+    "isAdmin": 0
+  },
+  {
+    "firstname": "dexter",
+    "lastname": "margan",
+    "salary": 90000,
+    "department": "sales",
+    "isAdmin": 1
+  },
+  {
+    "firstname": "tony",
+    "lastname": "romo",
+    "salary": 95000,
+    "department": "sales",
+    "isAdmin": 0
+  }
+]
